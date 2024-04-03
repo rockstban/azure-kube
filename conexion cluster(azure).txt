@@ -1,0 +1,3 @@
+esteban ZGSyuJ7ypQhugOLz
+az aks get-credentials --resource-group kube-aks --name kub-dep-demo
+mongodb+srv://esteban:<password>@estebandb.id6e6lz.mongodb.net/?retryWrites=true&w=majority&appName=estebandb
